@@ -1,4 +1,3 @@
-package com.mage.hl7filesscramble;
 
 public class PatternsProgramExample {
 
